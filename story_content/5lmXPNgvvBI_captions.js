@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.98.34222.0%0D%0A%0D%0A00:00:00.075%20--%3E%2000:00:04.244%0D%0ABayangkan%20Anda%20sedang%20menjelaskan%20panjang%20lebar%20fitur%20mobil%20kepada%20pelanggan%0D%0A%0D%0A"}')
